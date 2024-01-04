@@ -1,14 +1,17 @@
+import 'react-native-reanimated';
+import 'react-native-gesture-handler';
+
 import React from 'react';
 import { StyleSheet } from 'react-native';
 
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
-import { MoviesSlider } from '/src/containers';
+import { ListDynamicScrollToIndex } from '/src/containers';
 
 function App(): React.JSX.Element {
   return (
     <GestureHandlerRootView style={styles.rootContainer}>
-      <MoviesSlider />
+      <ListDynamicScrollToIndex />
     </GestureHandlerRootView>
   );
 }
