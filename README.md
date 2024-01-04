@@ -41,3 +41,4 @@ npm run ios
 - Spinning wheel
 - Text animation
 - Movies slider
+- FlatList with dynamic scroll to index
