@@ -19,7 +19,7 @@ cd ios/ && pod install && cd ..
 ## Step 1: Start metro
 
 ```bash
-npm start
+npm run start
 ```
 
 ## Step 2: Start your Application
@@ -39,5 +39,5 @@ npm run ios
 # Components list
 
 - Spinning wheel
-- Text Animation
-- Movies Slider
+- Text animation
+- Movies slider
