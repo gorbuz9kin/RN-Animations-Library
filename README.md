@@ -27,14 +27,12 @@ npm start
 ### For Android
 
 ```bash
-# using npm
 npm run android
 ```
 
 ### For iOS
 
 ```bash
-# using npm
 npm run ios
 ```
 
